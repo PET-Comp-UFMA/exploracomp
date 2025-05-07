@@ -18,7 +18,7 @@ require_once('header.php');
         <div class="carousel-inner">
             <div id="intro" class="carousel-item active">
                 <div class="intro-container wow fadeIn">
-                    <h1 class="mb-4 pb-0">Evento Conecta<br> Ciência da Computação<br>PETCOMP - UFMA<br> </h1>
+                    <h1 class="mb-4 pb-0">ExploraComp<br> Ciência da Computação<br>PETCOMP - UFMA<br> </h1>
 
                     <!-- <p class="mb-4 pb-0">Deseja participar?</p>
                     <a href="inscricoes.php" class="about-btn scrollto">Inscreva-se!!!</a> -->
@@ -26,7 +26,7 @@ require_once('header.php');
             </div>
             <div id="intro" class="carousel-item item-2">
                 <div class="intro-container wow fadeIn">
-                    <h1 class="mb-4 pb-0">Evento Conecta<br> Ciência da Computação<br>PETCOMP - UFMA<br> </h1>
+                    <h1 class="mb-4 pb-0">ExploraComp<br> Ciência da Computação<br>PETCOMP - UFMA<br> </h1>
                     <p class="mb-4 pb-0">Está perdido?<br>Veja algumas dicas!</p>
 
                     <a href="https://youtu.be/hPt2zWgXKiQ" class="venobox play-btn mb-4 vbox-item" data-vbtype="video" data-autoplay="true"></a>
@@ -61,11 +61,9 @@ require_once('header.php');
                 <center>
                     <div class="col-lg-6">
                         <h2>Sobre o Evento</h2>
-                        <p>A Acalourada é uma atividade de recepção dos estudantes ingressantes no curso de <strong>Ciência da Computação</strong>
-                            de forma presencial. Essa atividade já vem sendo desenvolvida de forma presencial
-                            há mais de 6 anos em conjunto com a <strong>Coordenação de Computação</strong>, o <strong>Departamento de Informática</strong> e o
-                            <strong>PET de Computação</strong>, e procura guiar os calouros através da universidade e do curso, além de mostrar as oportunidades
-                            que a universidade oferece tanto de forma pessoal como profissional.
+                        <p>O <strong>ExploraComp</strong> é uma ação promovida pelo <strong>PETComp - Programa de Educação Tutorial em Ciência da Computação da UFMA</strong>, voltada para estudantes do ensino médio, especialmente aqueles de baixa renda, que desejam conhecer de perto o universo da Computação.
+                        Durante a atividade, os participantes exploram o curso por meio de oficinas, bate-papos com universitários, demonstrações tecnológicas e visitas guiadas, vivenciando na prática como é estudar na UFMA.
+                        O objetivo é apresentar oportunidades de ingresso no ensino superior, inspirar trajetórias acadêmicas e aproximar jovens talentos da tecnologia e da inovação.
                         </p>
                     </div>
                 </center>
