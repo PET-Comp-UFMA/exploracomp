@@ -4,7 +4,7 @@
             <a href="index.php"><img src="img/favicon/logo-evento.svg" alt="" class="img-fluid" id="img-esq"></a>
         </div>
         <div>
-            <a href="index.php"><img src="img/bannerAcalourada2025_1.svg" class="img-fluid" id="img-centro"></a>
+            <a href="index.php"><img src="img/banner.svg" class="img-fluid" id="img-centro"></a>
         </div>
         <div>
             <a href="https://portalpadrao.ufma.br/site" target="_blank"><img src="img/supporters/logo-ufma.png" alt=""

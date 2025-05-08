@@ -15,6 +15,6 @@
         </div>
     </div>
     <div class="copyright">
-        <strong>Acalourada 2025.1 - PETCOMP</strong>
+        <strong>ExploraComp 2025 - PETCOMP</strong>
     </div>
 </footer>

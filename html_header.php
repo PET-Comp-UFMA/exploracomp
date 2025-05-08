@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="utf-8">
-    <title>Evento</title>
+    <title>ExploraComp</title>
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
     <meta content="Acalourada, Evento, petcomp, " name="keywords">
     <meta content="PETCOMP-UFMA" name="author">
@@ -12,9 +12,9 @@
     <meta name="google-site-verification" content="Vq1j2NBJRrVdJnbfpVGku9UCJFm-OD1rTIO7XZ7i7Rs" />
 
     <!-- Favicons -->
-    <link rel="apple-touch-icon" sizes="180x180" href="img/favicon-v1/apple-touch-icon.png">
-    <link rel="icon" type="image/png" sizes="32x32" href="img/favicon-v1/favicon-dark.png">
-    <link rel="icon" type="image/png" sizes="16x16" href="img/favicon-v1/favicon.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="img/favicon/logo-evento.svg">
+    <link rel="icon" type="image/png" sizes="32x32" href="img/favicon/logo-evento.svg">
+    <link rel="icon" type="image/png" sizes="16x16" href="img/favicon/logo-evento.svg">
     <link rel="manifest" href="/favicon-v1/site.webmanifest">
 
 
