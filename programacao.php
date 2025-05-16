@@ -20,7 +20,7 @@ require_once('header.php');
 
             <!-- Schdule Day 1 -->
             <div role="tabpanel" class="col-lg-9 tab-pane fade show active" id="day-1">
-                <h2 class="schedule-day-title">Dia 25/03</h2>
+                <h2 class="schedule-day-title">Dia 23/05</h2>
                 <h3 class="schedule-day-title">MANHÃ</h3>
                 
                 <div class="infos">
@@ -42,7 +42,7 @@ require_once('header.php');
                 </div>
 
                 <div class="infos">
-                    <time>10:30-12:00</time>
+                    <time>11:00-12:00</time>
                     <img src="img/speakers/simara.png" alt="">
                     <div class="sub-infos">
                         <h4>Palestra</h4>
@@ -53,7 +53,7 @@ require_once('header.php');
                 <h3 class="schedule-day-title">TARDE</h3>
 
                 <div class="infos">
-                    <time>14:00-15:30</time>
+                    <time>14:00-15:00</time>
                     <img src="img/speakers/pet.jpg" alt="">
                     <div class="sub-infos">
                         <h4>Dinâmica de jogos</h4>
@@ -62,13 +62,22 @@ require_once('header.php');
                 </div>
 
                 <div class="infos">
-                    <time>15:30-17:00</time>
+                    <time>15:00-16:00</time>
                     <img src="img/speakers/pet.jpg" alt="">
                     <div class="sub-infos">
-                        <h4>Minicurso de lógica</h4>
-                        <p>Apresentadores: PETComp<br>Local: A definir</p>
+                        <h4>Palestra EQTLab</h4>
+                        <p>Apresentadores: Jéssica Costa Mendes e Andressa dos Santos Gaspar<br>Local: A definir</p>
                     </div>
                 </div>
+
+                <div class="infos">
+                    <time>16:00-16:30</time>
+                    <img src="img/speakers/pet.jpg" alt="">
+                    <div class="sub-infos">
+                        <h4>Encerramento</h4>
+                        <p>Apresentadores: PETComp<br>Local: A definir</p>
+                    </div>
+                </div>                
 
                 <!-- <div class="infos">
                     <time>15:30-16:30</time>
