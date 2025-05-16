@@ -63,10 +63,10 @@ require_once('header.php');
 
                 <div class="infos">
                     <time>15:00-16:00</time>
-                    <img src="img/speakers/pet.jpg" alt="">
+                    <img src="img/speakers/eqtlab.jpg" alt="">
                     <div class="sub-infos">
                         <h4>Palestra EQTLab</h4>
-                        <p>Apresentadores: Jéssica Costa Mendes e Andressa dos Santos Gaspar<br>Local: A definir</p>
+                        <p>Apresentadores: Jéssica Costa Mendes & Andressa dos Santos Gaspar<br>Local: A definir</p>
                     </div>
                 </div>
 
