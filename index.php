@@ -29,15 +29,15 @@ require_once('header.php');
                     <h1 class="mb-4 pb-0">ExploraComp<br> Ciência da Computação<br>PETCOMP - UFMA<br> </h1>
                     <p class="mb-4 pb-0">Está perdido?<br>Veja algumas dicas!</p>
 
-                    <a href="https://youtu.be/hPt2zWgXKiQ" class="venobox play-btn mb-4 vbox-item" data-vbtype="video" data-autoplay="true"></a>
+                    <a href="https://www.youtube.com/watch?v=6jtOBIICfJc" class="venobox play-btn mb-4 vbox-item" data-vbtype="video" data-autoplay="true"></a>
                 </div>
             </div>
             <div id="intro-2" class="carousel-item item-2">
                 <div class="intro-container wow fadeIn">
-                    <h1 class="mb-4 pb-0">Oriente-se!!! <br>Conheça o CCET </h1>
-                    <p class="mb-4 pb-0">Assista nosso Vídeo!</p>
+                    <h1 class="mb-4 pb-0">Se liga!!! <br>Conheça a UFMA </h1>
+                    <p class="mb-4 pb-0">Assista o Vídeo!</p>
 
-                    <a href="https://youtu.be/lvfjOL5q2_w" class="venobox play-btn mb-4 vbox-item" data-vbtype="video" data-autoplay="true"></a>
+                    <a href="https://www.youtube.com/watch?v=N7WCivDB9XI" class="venobox play-btn mb-4 vbox-item" data-vbtype="video" data-autoplay="true"></a>
 
                 </div>
             </div>
@@ -69,6 +69,36 @@ require_once('header.php');
                 </center>
             </div>
         </div>
+    </section>
+
+    <div class="section-header">
+        <h2>Mais Sobre</h2>
+    </div>
+
+    <section id = "about-2">
+        <div class="cards-about" id = "card-programacao">
+            <a href="./programacao.php">
+                <img src="img/programacao-card.png" alt="">
+                <h3>PROGRAMAÇÃO</h3>
+            </a>
+        </div>
+
+        <div class="cards-about">
+            <a href="./localizacao.php">
+                <img src="img/localizacao-card.png" alt="">
+                <h3>LOCALIZAÇÃO</h3>
+            </a>
+        </div>
+
+        <div class="cards-about">
+            <a href="https://petcompufma.org/" target="_blank">
+                <img src="img/petcomp-card.png" alt="">
+                <h3>PETCOMP</h3>
+            </a>
+        </div>
+
+        
+
     </section>
 
     <!--====================

@@ -8,10 +8,6 @@
 /*--------------------------------------------------------------
 # General
 --------------------------------------------------------------*/
-
-.eduarda {
-    border: #000;
-  }
   .disabled {
     pointer-events: none;
     opacity: 0.5;
@@ -564,6 +560,7 @@
     position: relative;
   }
   
+  
   #intro-2:before {
     content: "";
     background: rgba(19, 17, 13, 0.6);
@@ -717,7 +714,6 @@
     background: url(../img/fundo-1.png) top center;
     background-size: cover;
     overflow: hidden;
-    position: relative;
   }
   
   #intro:before {
@@ -1211,6 +1207,38 @@
     -webkit-transform: scale(1.2);
     transform: scale(1.2);
   }
+  
+
+  /*----------------------CARDS------------------------*/
+
+  #about-2{
+    display: flex;
+    justify-content: center;
+    padding-top: 20px;
+    padding-bottom: 40px;
+    gap: 60px;
+  }
+
+  .cards-about{
+    background-color: #037EDF;
+    color: white;
+    text-align: center;
+    & img {
+      width: 200px;
+      height: auto;
+      padding-left: 40px;
+      padding-top: 30px;
+      padding-right: 40px;
+      padding-bottom: 9px;
+    }
+    & h3{
+      font-size:18px;
+      font-weight: 650;
+      color: white;
+      padding-bottom: 4px;
+    }
+  }
+
   
   /*--------------------------------------------------------------
   # Orientacoes Section
@@ -1738,10 +1766,6 @@
   }
   
   @media (min-width: 1024px) {
-    #intro {
-      background-attachment: fixed;
-    }
-  
     #about {
       background-attachment: fixed;
     }
