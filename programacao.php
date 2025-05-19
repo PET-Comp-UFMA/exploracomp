@@ -24,20 +24,29 @@ require_once('header.php');
                 <h3 class="schedule-day-title">MANHÃ</h3>
                 
                 <div class="infos">
-                    <time>08:30-09:00</time>
+                    <time>08:00-09:00</time>
+                    <img src="img/speakers/lucho.jpg" alt="">
+                    <div class="sub-infos">
+                        <h4>Apresentação e Núcleo de Computação Aplicada (NCA)</h4>
+                        <p>Apresentador(a): Prof. Luis Rivero<br>Local: A definir</p>
+                    </div>
+                </div>
+
+                <div class="infos">
+                    <time>09:00-10:00</time>
                     <img src="img/speakers/pet.jpg" alt="">
                     <div class="sub-infos">
-                        <h4>Recepção</h4>
+                        <h4>Laboratórios e Salas de aula</h4>
                         <p>Apresentador(a): PETComp<br>Local: A definir</p>
                     </div>
                 </div>
 
                 <div class="infos">
-                    <time>09:00-10:30</time>
-                    <img src="img/speakers/pet.jpg" alt="">
+                    <time>10:00-11:00</time>
+                    <img src="img/speakers/lucho.jpg" alt="">
                     <div class="sub-infos">
-                        <h4>Apresentação PETComp + Dinâmica de Apresentação + MiniTour NCA </h4>
-                        <p>Apresentador(a): PETComp<br>Local: A definir</p>
+                        <h4>Auditórios e SBC</h4>
+                        <p>Apresentador(a): Prof. Luis Rivero<br>Local: A definir</p>
                     </div>
                 </div>
 
