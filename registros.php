@@ -2,25 +2,138 @@
     require_once('html_header.php');
     require_once('header.php');
 ?>
+    
+    <div class="section-header">
+        <h2>RECEPÇÃO E TOUR</h2>
+    </div>
+
+    <div class="swiper carousel">
+        <div class="swiper-wrapper">
+
+            <div class="swiper-slide"> 
+                <div class="container-registros">
+                    <img class="container-registros" src="./img/registros/recepcao01.jpg" alt="">
+                </div>
+            </div>
+            <div class="swiper-slide"> 
+                <div class="container-registros">
+                    <img class="container-registros" src="./img/registros/recepcao02.jpg" alt="">
+                </div>
+            </div>
+            <div class="swiper-slide">
+                <div class="container-registros">
+                    <img class="container-registros" src="./img/registros/recepcao03.jpg" alt="">
+                </div>
+            </div>
+            <div class="swiper-slide">
+                <div class="container-registros">
+                    <img class="container-registros" src="./img/registros/recepcao04.jpg" alt="">
+                </div>
+            </div>
+
+            <div class="swiper-slide">
+                <div class="container-registros">
+                    <img class="container-registros" src="./img/registros/tour01.jpg" alt="">
+                </div>
+            </div>
+
+            <div class="swiper-slide">
+                <div class="container-registros">
+                    <img class="container-registros" src="./img/registros/tour02.jpg" alt="">
+                </div>
+            </div>
+
+            <div class="swiper-slide">
+                <div class="container-registros">
+                    <img class="container-registros" src="./img/registros/tour03.jpg" alt="">
+                </div>
+            </div>
+
+            <div class="swiper-slide">
+                <div class="container-registros">
+                    <img class="container-registros" src="./img/registros/tour04.jpg" alt="">
+                </div>
+            </div>
+
+            <div class="swiper-slide">
+                <div class="container-registros">
+                    <img class="container-registros" src="./img/registros/tour05.jpg" alt="">
+                </div>
+            </div>
+
+            <div class="swiper-slide">
+                <div class="container-registros">
+                    <img class="container-registros" src="./img/registros/tour06.jpg" alt="">
+                </div>
+            </div>
+
+        </div>
+        <button type="button" class="swiper-button-next"></button>
+        <button type="button" class="swiper-button-prev"></button>
+        <div class="swiper-pagination"></div>
+    </div>
 
     <div class="section-header">
-        <h2 class="text-temp">EM BREVE</h2>
+        <h2>Palestra e Minicurso</h2>
     </div>
 
-    <!-- <div class="swiper carousel">
+    <div class="swiper carousel">
         <div class="swiper-wrapper">
+
             <div class="swiper-slide"> 
-                <img  src="./img/registros/dia1/foto-2025.1.jpg" alt="">
+                <div class="container-registros">
+                    <img class="container-registros" src="./img/registros/palestra01.jpg" alt="">
+                </div>
             </div>
-            <div class="swiper-slide">
-                <img src="./img/registros/dia1/foto-2024.2.jpg" alt="">
-            </div>
-            <div class="swiper-slide">
-                <img src="./img/registros/dia1/foto-2024.1.jpg" alt="">
+            <div class="swiper-slide"> 
+                <div class="container-registros">
+                    <img class="container-registros" src="./img/registros/palestra02.jpg" alt="">
+                </div>
             </div>
             <div class="swiper-slide">
                 <div class="container-registros">
-                    <img src="./img/registros/dia1/foto-2023.2.jpeg" alt="">
+                    <img class="container-registros" src="./img/registros/palestra03.jpg" alt="">
+                </div>
+            </div>
+            <div class="swiper-slide">
+                <div class="container-registros">
+                    <img class="container-registros" src="./img/registros/palestra04.jpg" alt="">
+                </div>
+            </div>
+
+            <div class="swiper-slide">
+                <div class="container-registros">
+                    <img class="container-registros" src="./img/registros/palestra05.jpg" alt="">
+                </div>
+            </div>
+
+            <div class="swiper-slide">
+                <div class="container-registros">
+                    <img class="container-registros" src="./img/registros/palestra06.jpg" alt="">
+                </div>
+            </div>
+
+            <div class="swiper-slide">
+                <div class="container-registros">
+                    <img class="container-registros" src="./img/registros/palestra07.jpg" alt="">
+                </div>
+            </div>
+
+            <div class="swiper-slide">
+                <div class="container-registros">
+                    <img class="container-registros" src="./img/registros/minicurso01.jpg" alt="">
+                </div>
+            </div>
+
+            <div class="swiper-slide">
+                <div class="container-registros">
+                    <img class="container-registros" src="./img/registros/minicurso02.jpg" alt="">
+                </div>
+            </div>
+
+            <div class="swiper-slide">
+                <div class="container-registros">
+                    <img class="container-registros" src="./img/registros/minicurso03.jpg" alt="">
                 </div>
             </div>
 
@@ -28,83 +141,55 @@
         <button type="button" class="swiper-button-next"></button>
         <button type="button" class="swiper-button-prev"></button>
         <div class="swiper-pagination"></div>
-    </div> -->
+    </div>
 
-    <!-- <div class="section-header">
-        <h2>DIA 2</h2>
+    <div class="section-header">
+        <h2>EQTLab e Encerramento</h2>
     </div>
 
     <div class="swiper carousel">
         <div class="swiper-wrapper">
-            <div class="swiper-slide"> 
-                <div class="container-registros">
-                    <img class="container-registros" src="./img/registros/2025.1/dia2/foto9.jpg" alt="">
-                </div>
-            </div>
-            <div class="swiper-slide"> 
-                <div class="container-registros">
-                    <img class="container-registros" src="./img/registros/2024.2/dia2/2.jpg" alt="">
-                </div>
-            </div>
-            <div class="swiper-slide">
-                <div class="container-registros">
-                    <img class="container-registros" src="./img/registros/2024.1/dia2/1.JPEG" alt="">
-                </div>
-            </div>
-            <div class="swiper-slide">
-                <div class="container-registros">
-                    <img class="container-registros" src="./img/registros/2023.2/dia2/Foto19.jpeg" alt="">
-                </div>
-            </div>
 
-        </div>
-        <button type="button" class="swiper-button-next"></button>
-        <button type="button" class="swiper-button-prev"></button>
-        <div class="swiper-pagination"></div>
-    </div> -->
-
-    <!-- <div class="section-header">
-        <h2>DIA 3</h2>
-    </div>
-
-    <div class="swiper carousel">
-        <div class="swiper-wrapper">
             <div class="swiper-slide"> 
                 <div class="container-registros">
-                    <img class="container-registros" src="./img/registros/2025.1/dia3/foto1.jpg" alt="">
+                    <img class="container-registros" src="./img/registros/eqtlab01.jpg" alt="">
                 </div>
             </div>
             <div class="swiper-slide"> 
                 <div class="container-registros">
-                    <img class="container-registros" src="./img/registros/2025.1/dia3/foto6.jpg" alt="">
+                    <img class="container-registros" src="./img/registros/eqtlab02.jpg" alt="">
                 </div>
             </div>
             <div class="swiper-slide"> 
                 <div class="container-registros">
-                    <img class="container-registros" src="./img/registros/2024.2/dia3/3.jpg" alt="">
+                    <img class="container-registros" src="./img/registros/eqtlab03.jpg" alt="">
                 </div>
             </div>
             <div class="swiper-slide"> 
                 <div class="container-registros">
-                    <img class="container-registros" src="./img/registros/2024.1/dia3/2.jpeg" alt="">
+                    <img class="container-registros" src="./img/registros/eqtlab04.jpg" alt="">
                 </div>
             </div>
             <div class="swiper-slide"> 
                 <div class="container-registros">
-                    <img class="container-registros" src="./img/registros/2023.2/dia3/Foto15.jpeg" alt="">
+                    <img class="container-registros" src="./img/registros/eqtlab05.jpg" alt="">
                 </div>
             </div>
             <div class="swiper-slide"> 
                 <div class="container-registros">
-                    <img class="container-registros" src="./img/registros/2023.2/dia3/Foto5.jpeg" alt="">
+                    <img class="container-registros" src="./img/registros/encerramento01.jpg" alt="">
                 </div>
             </div>
             
         </div>
+
         <button type="button" class="swiper-button-next"></button>
         <button type="button" class="swiper-button-prev"></button>
         <div class="swiper-pagination"></div> 
-    </div> -->
+        
+    </div>
+
+    <div style="margin-bottom: 50px;"></div>
 
 
 <?php 
