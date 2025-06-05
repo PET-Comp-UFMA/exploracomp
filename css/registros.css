@@ -1,3 +1,18 @@
-.text-temp {
-    min-height: 80vh;
+img{
+    max-width: 100%;
+    margin-bottom: 10px;
+}
+.imagens-group{
+    column-count: 2;
+    column-gap: 10px;
+}
+.teste{
+    display: flex;
+}
+
+@media (max-width:800px){
+    .imagens-group{
+        column-count: 2;
+        column-gap: 10px;
+    }
 }

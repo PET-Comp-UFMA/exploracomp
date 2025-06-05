@@ -4,190 +4,92 @@
 ?>
     
     <div class="section-header">
-        <h2>RECEPÇÃO E TOUR</h2>
+        <h2>Recepção</h2>
     </div>
 
-    <div class="swiper carousel">
-        <div class="swiper-wrapper">
-
-            <div class="swiper-slide"> 
-                <div class="container-registros">
-                    <img class="container-registros" src="./img/registros/recepcao01.jpg" alt="">
-                </div>
-            </div>
-            <div class="swiper-slide"> 
-                <div class="container-registros">
-                    <img class="container-registros" src="./img/registros/recepcao02.jpg" alt="">
-                </div>
-            </div>
-            <div class="swiper-slide">
-                <div class="container-registros">
-                    <img class="container-registros" src="./img/registros/recepcao03.jpg" alt="">
-                </div>
-            </div>
-            <div class="swiper-slide">
-                <div class="container-registros">
-                    <img class="container-registros" src="./img/registros/recepcao04.jpg" alt="">
-                </div>
-            </div>
-
-            <div class="swiper-slide">
-                <div class="container-registros">
-                    <img class="container-registros" src="./img/registros/tour01.jpg" alt="">
-                </div>
-            </div>
-
-            <div class="swiper-slide">
-                <div class="container-registros">
-                    <img class="container-registros" src="./img/registros/tour02.jpg" alt="">
-                </div>
-            </div>
-
-            <div class="swiper-slide">
-                <div class="container-registros">
-                    <img class="container-registros" src="./img/registros/tour03.jpg" alt="">
-                </div>
-            </div>
-
-            <div class="swiper-slide">
-                <div class="container-registros">
-                    <img class="container-registros" src="./img/registros/tour04.jpg" alt="">
-                </div>
-            </div>
-
-            <div class="swiper-slide">
-                <div class="container-registros">
-                    <img class="container-registros" src="./img/registros/tour05.jpg" alt="">
-                </div>
-            </div>
-
-            <div class="swiper-slide">
-                <div class="container-registros">
-                    <img class="container-registros" src="./img/registros/tour06.jpg" alt="">
-                </div>
-            </div>
-
+    <div class="imagens-wrapper">
+        <div class="imagens-group">
+            <img src="img/registros/Recepcao1.png" alt="">
+            <img src="img/registros/Recepcao2.png" alt="">
         </div>
-        <button type="button" class="swiper-button-next"></button>
-        <button type="button" class="swiper-button-prev"></button>
-        <div class="swiper-pagination"></div>
+
+        <div class="imagens-group">
+            <img src="img/registros/Recepcao3.png" alt="">
+            <img src="img/registros/Recepcao4.png" alt="">
+        </div>
+        <div class="imagens-group">
+            <img src="img/registros/Recepcao5.png" alt="">
+            <img src="img/registros/Recepcao6.png" alt="">
+        </div>
+        <div class="imagens-group">
+            <img src="img/registros/Recepcao7.png" alt="">
+            <img src="img/registros/Recepcao8.png" alt="">
+        </div>
+        <div class="imagens-group">
+            <img src="img/registros/Recepcao7.png" alt="">
+            <img src="img/registros/Recepcao8.png" alt="">
+        </div>
+    </div>
+
+
+    <div class="section-header">
+        <h2>Tour pelos laboratorios</h2>
+    </div>
+    </div>
+        <div class="imagens-group">
+        <img src="img\registros\tour1.png" alt="">
+        <img src="img\registros\tour2.png" alt="">
+        <img src="img\registros\tour3.png" alt="">
+        <img src="img\registros\tour4.png" alt="">
+        <img src="img\registros\tour5.png" alt="">
+        <img src="img\registros\tour6.png" alt="">
+        <img src="img\registros\tour7.png" alt="">
+        <img src="img\registros\tour8.png" alt="">
     </div>
 
     <div class="section-header">
-        <h2>Palestra e Minicurso</h2>
+        <h2>Palestra com a Prof.Simara</h2>
+    <div>
+
+    </div>
+        <div class="imagens-group">
+        <img src="img\registros\palestraS1.png" alt="">
+        <img src="img\registros\palestraS2.png" alt="">
+        <img src="img\registros\palestraS3.png" alt="">
+        <img src="img\registros\palestraS4.png" alt="">
+        <img src="img\registros\palestraS5.png" alt="">
+        <img src="img\registros\palestraS6.png" alt="">
+        <img src="img\registros\palestraS7.png" alt="">
+        <img src="img\registros\palestraS8.png" alt="">
     </div>
 
-    <div class="swiper carousel">
-        <div class="swiper-wrapper">
 
-            <div class="swiper-slide"> 
-                <div class="container-registros">
-                    <img class="container-registros" src="./img/registros/palestra01.jpg" alt="">
-                </div>
-            </div>
-            <div class="swiper-slide"> 
-                <div class="container-registros">
-                    <img class="container-registros" src="./img/registros/palestra02.jpg" alt="">
-                </div>
-            </div>
-            <div class="swiper-slide">
-                <div class="container-registros">
-                    <img class="container-registros" src="./img/registros/palestra03.jpg" alt="">
-                </div>
-            </div>
-            <div class="swiper-slide">
-                <div class="container-registros">
-                    <img class="container-registros" src="./img/registros/palestra04.jpg" alt="">
-                </div>
-            </div>
-
-            <div class="swiper-slide">
-                <div class="container-registros">
-                    <img class="container-registros" src="./img/registros/palestra05.jpg" alt="">
-                </div>
-            </div>
-
-            <div class="swiper-slide">
-                <div class="container-registros">
-                    <img class="container-registros" src="./img/registros/palestra06.jpg" alt="">
-                </div>
-            </div>
-
-            <div class="swiper-slide">
-                <div class="container-registros">
-                    <img class="container-registros" src="./img/registros/palestra07.jpg" alt="">
-                </div>
-            </div>
-
-            <div class="swiper-slide">
-                <div class="container-registros">
-                    <img class="container-registros" src="./img/registros/minicurso01.jpg" alt="">
-                </div>
-            </div>
-
-            <div class="swiper-slide">
-                <div class="container-registros">
-                    <img class="container-registros" src="./img/registros/minicurso02.jpg" alt="">
-                </div>
-            </div>
-
-            <div class="swiper-slide">
-                <div class="container-registros">
-                    <img class="container-registros" src="./img/registros/minicurso03.jpg" alt="">
-                </div>
-            </div>
-
-        </div>
-        <button type="button" class="swiper-button-next"></button>
-        <button type="button" class="swiper-button-prev"></button>
-        <div class="swiper-pagination"></div>
-    </div>
 
     <div class="section-header">
-        <h2>EQTLab e Encerramento</h2>
+        <h2>Palestra Grupo EQTLab</h2>
+    </div>
+        <div class="imagens-group">
+        <img src="img\registros\PalestraG1.png" alt="">
+        <img src="img\registros\PalestraG2.png" alt="">
+        <img src="img\registros\PalestraG3.png" alt="">
+        <img src="img\registros\PalestraG4.png" alt="">
+        <img src="img\registros\PalestraG5.png" alt="">
+        <img src="img\registros\PalestraG6.png" alt="">
+        <img src="img\registros\PalestraG7.png" alt="">
+        <img src="img\registros\PalestraG8.png" alt="">
+    </div>
+    <div class="section-header">
+        <h2>Minicurso</h2>
+    </div>
+    </div>
+        <div class="imagens-group">
+        <img src="img\registros\Minicurso1.png" alt="">
+        <img src="img\registros\Minicurso2.png" alt="">
+        <img src="img\registros\Minicurso3.png" alt="">
+        <img src="img\registros\Minicurso4.png" alt="">
     </div>
 
-    <div class="swiper carousel">
-        <div class="swiper-wrapper">
 
-            <div class="swiper-slide"> 
-                <div class="container-registros">
-                    <img class="container-registros" src="./img/registros/eqtlab01.jpg" alt="">
-                </div>
-            </div>
-            <div class="swiper-slide"> 
-                <div class="container-registros">
-                    <img class="container-registros" src="./img/registros/eqtlab02.jpg" alt="">
-                </div>
-            </div>
-            <div class="swiper-slide"> 
-                <div class="container-registros">
-                    <img class="container-registros" src="./img/registros/eqtlab03.jpg" alt="">
-                </div>
-            </div>
-            <div class="swiper-slide"> 
-                <div class="container-registros">
-                    <img class="container-registros" src="./img/registros/eqtlab04.jpg" alt="">
-                </div>
-            </div>
-            <div class="swiper-slide"> 
-                <div class="container-registros">
-                    <img class="container-registros" src="./img/registros/eqtlab05.jpg" alt="">
-                </div>
-            </div>
-            <div class="swiper-slide"> 
-                <div class="container-registros">
-                    <img class="container-registros" src="./img/registros/encerramento01.jpg" alt="">
-                </div>
-            </div>
-            
-        </div>
-
-        <button type="button" class="swiper-button-next"></button>
-        <button type="button" class="swiper-button-prev"></button>
-        <div class="swiper-pagination"></div> 
-        
-    </div>
 
     <div style="margin-bottom: 50px;"></div>
 
