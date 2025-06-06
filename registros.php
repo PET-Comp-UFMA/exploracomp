@@ -2,12 +2,13 @@
     require_once('html_header.php');
     require_once('header.php');
 ?>
-    
+
+<body>
     <div class="section-header">
         <h2>Recepção</h2>
     </div>
 
-    <div class="imagens-wrapper">
+    <div class="galery-images">
         <div class="imagens-group">
             <img src="img/registros/Recepcao1.png" alt="">
             <img src="img/registros/Recepcao2.png" alt="">
@@ -32,7 +33,7 @@
         <h2>Tour pelos laboratórios</h2>
     </div>
     
-    <div class="imagens-wrapper">
+    <div class="galery-images">
         <div class="imagens-group">
             <img src="img/registros/tour1.png" alt="">
             <img src="img/registros/tour2.png" alt="">
@@ -54,7 +55,7 @@
     <div class="section-header">
         <h2>Palestra com a Prof. Simara</h2>
     </div>
-    <div class="imagens-wrapper">
+    <div class="galery-images">
         <div class="imagens-group">
             <img src="img/registros/palestraS1.png" alt="">
             <img src="img/registros/palestraS2.png" alt="">
@@ -76,7 +77,7 @@
     <div class="section-header">
         <h2>Palestra Grupo EQTLab</h2>
     </div>
-    <div class="imagens-wrapper">
+    <div class="galery-images">
         <div class="imagens-group">
             <img src="img/registros/PalestraG1.png" alt="">
             <img src="img/registros/PalestraG2.png" alt="">
@@ -98,7 +99,7 @@
     <div class="section-header">
         <h2>Minicurso</h2>
     </div>
-    <div class="imagens-wrapper">
+    <div class="galery-images">
         <div class="imagens-group">
             <img src="img/registros/Minicurso1.png" alt="">
         </div>
@@ -109,10 +110,16 @@
         </div>
     </div>
 
-
+    <div class="popup-image">
+        <span>&times;</span>
+        <img src="img/registros/Recepcao1.png" alt="">
+    </div>
 
 
     <div style="margin-bottom: 50px;"></div>
+
+</body>
+
 
 
 <?php 

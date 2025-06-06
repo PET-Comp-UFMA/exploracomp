@@ -158,4 +158,19 @@ jQuery(document).ready(function( $ ) {
       clickable: true
     },
   })
+  document.querySelectorAll('.imagens-group img').forEach(img => {
+      img.onclick = () => {
+          document.querySelector('.popup-image').style.display = 'block';
+          document.querySelector('.popup-image img').src = img.src;
+      }
+  });
+
+  document.querySelector('.popup-image').onclick = (e) => {
+    if (e.target.classList.contains('popup-image')) {
+        e.currentTarget.style.display = 'none';
+    }
+  }
+  document.querySelector('.popup-image span').onclick = () => {
+    document.querySelector('.popup-image').style.display = 'none';
+  };
   
