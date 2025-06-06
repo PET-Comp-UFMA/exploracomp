@@ -101,9 +101,9 @@
     <div class="imagens-wrapper">
         <div class="imagens-group">
             <img src="img/registros/Minicurso1.png" alt="">
-            <img src="img/registros/Minicurso2.png" alt="">
         </div>
-        <div class="imagens-group">
+        <div id="img-especifica" class="imagens-group">
+            <img src="img/registros/Minicurso2.png" alt="">
             <img src="img/registros/Minicurso3.png" alt="">
             <img src="img/registros/Minicurso4.png" alt="">
         </div>
